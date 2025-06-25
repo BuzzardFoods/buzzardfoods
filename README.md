@@ -2,7 +2,7 @@
 
 <sub>My legal name is “Michael.”[^1]</sub> 
  
-_I am working on a few projects, most are QoL solutions for myself, and others are just PoC's. To add a bit more purpose, and help me shrug off that feeling of being irresponsible when I code for 15 hours straight without getting paid, I decided to post them here._
+_I am working on a few projects, most are QoL solutions for myself, and others are just PoC's. **THESE ARE MOSTLY VIBE CODED!** Literally just vibin' bro. To add a bit more purpose, and help me shrug off that feeling of being irresponsible when I code for 15 hours straight without getting paid, I decided to post them here._
 
 <sup>[(Skip to projects section)](#projects)</sup>
 
