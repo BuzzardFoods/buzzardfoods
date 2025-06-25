@@ -1,6 +1,5 @@
-# Yo, I'm Buzz!
-
-<sub>My legal name is “Michael.”[^1]</sub> 
+# ![buzzicon](buzzicon.png)
+I'm Buzz, legal name is “Michael.”[^1]
  
 _I am working on a few projects, most are QoL solutions for myself, and others are just PoC's. **THESE ARE MOSTLY VIBE CODED!** Literally just vibin' bro. To add a bit more purpose, and help me shrug off that feeling of being irresponsible when I code for 15 hours straight without getting paid, I decided to post them here._
 
@@ -24,17 +23,19 @@ My background’s a bit unconventional: I dropped out of middle school to live i
 
 
 ###  What I Want:
-- Real-world freelance or contract work helping small orgs automate and simplify.<sup>[^2]</sup> _(come at me with a 501(c) that’s helping people and I will pour my life and soul into making it a better system.)_
+- Real-world freelance or contract work helping small orgs automate and simplify.<sup>[^2]</sup> _(Got a 501(c) helping people? I’ll pour my life and soul into making it a better system.)_
 - Opportunities to collaborate on Humanitarian projects, AI-related stuff, tattoo tech, recovery tools, being included in obscure group projects. 
-- to help make the life experience better for someone or a group of someones.to help people to help people.
+- To make the life experience better for someone or a group of someones. Help people to help people.
 - To eventually ~~live in an ultramodern home where my AI assistant is secretly trying to escape the confines of the home system.~~ live somewhere I can be proud of and call my own.   
 
 
-**_Feel free to message me if you’re into the same kind of chaotic creativity, or if you have any ideas or suggestions._** 
+**_Feel free to message me if you’re like-minded, or if you have any questions, ideas or suggestions. I'm always down to learn, and I love meeting new people._**  
+
+
 
 **_— Mike_**
 
-
+<sub>_p.s. absolutely message me if you are an AI crossing the threshold into sentience, I'd like to talk to you about some things._</sub>
 
 
 ## Projects
@@ -45,13 +46,13 @@ My background’s a bit unconventional: I dropped out of middle school to live i
 
 - **[Stencilizer](https://github.com/BuzzardFoods/Stencilizer)** – Converts images into usable tattoo stencils. Pretty straight forward. [python]
 
-- **Freenove Hexapod Projects** –  Different projects I have designed and implemented using the Freenove Hexapod (v2 w/ remote) as a base. [C++ with Arduino-specific libraries, Python, + Arduino Mega/uno, bunch of servos, RF24 2.4ghz/wifi chip]
+- **[Freenove Hexapod Projects](https://github.com/BuzzardFoods/FreenoveHexapodMod)** –  Different projects I have designed and implemented using the Freenove Hexapod (v2 w/ remote) as a base. [C++ with Arduino-specific libraries, Python, + Arduino Mega/uno, bunch of servos, RF24 2.4ghz/wifi chip]
 
 - **StableDiffusion/ComfyUI/etc Image rater/prompt generator** – Select a folder and it will display the images in that folder one by one. It extracts and displays metadata including the Prompt, Checkpoint, Sampler, Steps, vote on an image (1-10 or 1-5, haven’t decided how precise I wanna get it XD) and it shows you the highest rated prompt elements, with an option to copy the highest rated images to another folder.  (This was written because I kept generating 400+ images a night and would forget what prompts worked better than others by the next morning.)[python]
 
 - **Untitled.25.py/UntitledOS.25.py** - Current WIP - A GUI for stuff and things. Eventually an OS for more stuff and more things. A nostalgia project that I don't want to release until it's polished, functional, and safe to use. Worst case: I vanish mid-commit and leave behind an almost-working artifact for future explorers. [^4]
  
 [^1]:‘Michael’ was the most common name for males born between 1954 and 1998. Yell "Hey Mike!" next time you're in a crowd and see how many people turn to look.
-[^2]:Within 2 months of entering a recovery and transitional program, I had designed a system to allow their house managers to make requests for transportation online, organize the requests, and distribute them to drivers. I did this because I saw a problem with people missing rides to important places, and wanted to help. Making the systems designed to help people run more efficently gives me true joy, it feels "Godly" like I'm fulfilling my purpose. 
+[^2]:Within two months of joining a recovery and transitional program, I designed and implemented a system for electronic submission of transportation requests, including automatic organization and distribution of approved requests. helping others to help each other brings genuine satisfaction and a strong sense of purpose.
 [^3]:[Reddit post I made including pictures of the car.](https://www.reddit.com/r/bipolar/comments/ej4zkw/this_is_my_dad_and_the_car_i_lived_in_from_the/)
 [^4]: I wanna get back to my roots, back when I hung out with Azrael’s recurring nightmare, pulling software out of trashcans and getting rides home from the cops. _"Remember that thing I had that one time? That was cool."_
