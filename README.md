@@ -43,7 +43,7 @@ I hope to combine my love of helping people, technology, and my talents to do so
 
 *A bunch of the code you see here was designed for my own use, annotations are a mess, dependencies might be missing, there’s probably a way better way to do what you’re trying to accomplish, and a more fleshed out system on GitHub. If you see me doing something wrong, let me know! (don’t be a jerk about it though) I will always be open to learning. Missing links are being polished and will be uploaded soon.* 
 
-- **[Buzzard-Vomit(Buzzai)](https://github.com/BuzzardFoods/Buzzard-Vomit)** – A simple python(CLI) to LMstudio interface that logs memory and system prompt in a JSON file, with voice input and audio output capability (we have jarvis at home, jarvis at home:)[python]
+- **[Buzzard-Vomit(Buzzai)](https://github.com/BuzzardFoods/Buzzard-Vomit)** – A simple python(CLI) to LMstudio interface that logs memory and system prompt in a JSON file, with voice input and audio output capability. Very rudimentary.[python]
 
 - **[Stencilizer](https://github.com/BuzzardFoods/Stencilizer)** – Converts images into usable tattoo stencils. Pretty straight forward. [python]
 
