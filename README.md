@@ -9,8 +9,9 @@ _I am working on a few projects, most are QoL solutions for myself, and others a
 
 ###  Who I am:
 
-My background’s a bit unconventional: I dropped out of middle school to live in a car with my dad and do hard drugs.<sup>[^3]</sup> I spent my formative years learning by making do with what was on hand, fixing things, breaking them, and fixing them again. Coasted through life in a haze of weed smoke, got sober, and realized life is more than just waiting to die. Now I’m focused on putting myself to use through coding, AI, recovery, and sometimes tattooing. I hope to combine my love of helping people, technology, and do something _noble._
+My background’s a bit unconventional: I dropped out of middle school to live in a car with my dad and do hard drugs.<sup>[^3]</sup> I spent my formative years learning by making do with what was on hand, fixing things, breaking them, and fixing them again.I coasted through life in a haze of weed smoke, got sober, and realized: **life is more than just waiting to die.** Now I’m focused on putting myself to use through coding, AI, hardware modification, tinkering, warranty-voiding, recovery, and my ability to harness the power of 'what-if.'
 
+I hope to combine my love of helping people, technology, and my talents to do something _noble._
 
 
 ###  Things I’m into:
